@@ -1,5 +1,7 @@
  ✨ Oi, sou a Larissa ✨
+ 
 Bem vindo ao meu GitHub 📂
+
 Pra saber um pouco sobre mim:
 - 👀 Me interesso por música, viagens e filmes
 - 🎇 Faço aniversário dia 13 de novembro
